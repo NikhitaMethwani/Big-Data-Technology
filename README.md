@@ -17,3 +17,6 @@ Analysis performed:
 5.Verified Products along with their minimum and maximum ratings - HIVE               
 6.Verified /non-verified purchase of the overall products -MongoDB                  
 7.Recommend Customers with Products along with strength of preference - Apache Mahout                 
+
+Visualization:
+Each Analysis was visualized using Tableau
