@@ -2,8 +2,8 @@
 Analysis on Amazon Health care Products using Big Data Technologies
 
 Technologies used:
-Hadoop 
-Map Recduce
+Hadoop     
+Map Reduce
 Apache PIG
 HIVE
 Apache Mahout
