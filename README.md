@@ -9,7 +9,7 @@ HIVE
 Apache Mahout
 mongoDB
 
-Analysis performed:
+Analysis performed:    
 Number of each Product Sold   - Hadoop Map reduce
 Analyze top 10 products for each rating - Map reduce chaining
 Analyze each customer’s product list along with the count of products purchased - Hadoop Map reduce 
