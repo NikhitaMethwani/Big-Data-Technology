@@ -1,5 +1,5 @@
 # Big-Data-Technology
-Analysis on Amazon Health care Products using Big Data Technologies using HDFS,Map/Reduce , HIVE SQL , PIG 
+Analysis on Amazon Health care Products using Big Data Technologies.
 
 Dataset:  Amazon Customer Reviews on Health Care products
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
